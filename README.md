@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jonathananderzon
-- 👀 I’m interested in: Finance 
-- 🌱 I’m currently learning: Python (ML), JavaScript, Java, SQL, C++, Excel VBA and Algorithms
-- 💞️ I’m looking to collaborate on: Financial Modeling and Financial Analysis 
+- 👀 I’m interested in: Finance, Medicine, and AI
 - 📫 How to reach me: LinkedIn https://www.linkedin.com/in/jonathan-a-b87b21155/ or Instagram https://www.instagram.com/jonathananderzon/ and I can DM you my number.
 
 <!---
