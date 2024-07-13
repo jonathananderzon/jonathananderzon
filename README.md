@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathananderzon
 - 👀 I’m interested in: Finance, Medicine, and AI
-- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/jonathan-a-b87b21155/ or Instagram https://www.instagram.com/jonathananderzon/ and I can DM you my number.
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/jonathan-a-b87b21155/ or DM me.
 
 <!---
 jonathananderzon/jonathananderzon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
